@@ -7,12 +7,12 @@ I'm a full-stack developer with experience in building React and MERN applicatio
 
 ### My TOP pet projects:
 #### Individual
-- [Network](https://github.com/GeryMarkury/network-project)
-- [Phonebook](https://github.com/GeryMarkury/phonebook)
+- :globe_with_meridians:[Network](https://github.com/GeryMarkury/network-project)
+- :telephone:[Phonebook](https://github.com/GeryMarkury/phonebook)
 
 #### Team
-- [Drinks Master](https://github.com/ansachuk/FSSF-DrinkMaster)
-- [Books](https://github.com/MikhailoSalko/JSSF-JavaScript-Special-Forces)
+- :cocktail:[Drinks Master](https://github.com/ansachuk/FSSF-DrinkMaster)
+- :books:[Books](https://github.com/MikhailoSalko/JSSF-JavaScript-Special-Forces)
 
 ### I'm presently working on:
 - Enhancing another pet project
