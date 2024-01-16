@@ -14,9 +14,9 @@ I'm a full-stack developer with experience in building React and MERN applicatio
 - [Drinks Master](https://github.com/ansachuk/FSSF-DrinkMaster)
 - [Books](https://github.com/MikhailoSalko/JSSF-JavaScript-Special-Forces)
 
-### I'm currently working on:
-- Improving of another pet project
-- Strenghtening my JS, React and Node.js skills
+### I'm presently working on:
+- Enhancing another pet project
+- Strengthening my JS, React and Node.js skills
 
 ### I'm currently learning:
 - Type Script
